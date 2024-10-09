@@ -1,6 +1,18 @@
 # Unity LFS
-3D                           .lfs
+*.cubemap               lfs
+*.unitypackage          lfs 
+
+# 3D models
+*.3dm                   lfs
+*.3ds                   lfs
+*.blend*                lfs
+*.c4d                   lfs
+*.collada               lfs
+*.dae                   lfs
+*.dxf                   lfs
+*.mp3 		        lfs
+
 # SLN
-IDE Visual Studio            .crlf
+*.sln text eol=crlf
 
 
